@@ -1,2 +1,2 @@
-# vtucalc
-VTU Calculator. This is a calculator used to calculate SGPA and CGPA of all semesters and branches of VTU.
+# Enginnering CGPA SGPA Calculator
+VTU Calculator to calculate CGPA and SGPA of the students.

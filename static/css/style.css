@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
 /*
 Author: W3layout
 Author URL: http://w3layouts.com
@@ -6,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 */
 html,
 body {
-    font-family: 'Gilroy', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 100%;
     overflow-x: hidden;
   
@@ -38,7 +39,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: 'Gilroy', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p {
